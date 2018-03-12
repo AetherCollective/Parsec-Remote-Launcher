@@ -5,6 +5,8 @@ This utility will launch a remote application and establish a connection with Pa
 1. Download the [latest version](https://github.com/BetaLeaf/Parsec-Remote-Launcher/releases/latest) from the Releases section.  
 2. Modify the included .ini file to meet your needs.  
 3. Make a shortcut of the exe to your desktop and modify the shortcut to include the remote path of the application you want to launch.  
+4. On the host computer, launch C:\Program Files\Parsec\parsecd.exe (or C:\Program Files (x86)\Parsec\parsecd.exe on 64-bit) and log into Parsec. Make sure you save your login details.
+5. Launch your shortcut and enjoy!
 
 ##### Examples:  
 ```"Parsec Remote Launcher.exe" "C:\Program Files\Steam\Steam.exe -applaunch 570" (launches Dota 2)```  
